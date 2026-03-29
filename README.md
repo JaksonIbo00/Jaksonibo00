@@ -14,8 +14,8 @@ Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatik
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jaksonibo00&theme=tokyonight)
 
 ## 🌐 Social Media
-Ig: https://instagram.com/romario_ibo27
-TikTok: https://www.tiktok.com/@siapaeeeeeeeeeee
+- Ig: https://instagram.com/romario_ibo27
+- TikTok: https://www.tiktok.com/@siapaeeeeeeeeeee
 
 ## ✨ Fun Facts 
 - Suka nonton Anime
