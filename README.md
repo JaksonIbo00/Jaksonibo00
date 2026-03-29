@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=  Halooooo!!+👋;Saya+Jakson+Romario+Simson+Ibo;Welcome+to+my+GitHub)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Halooooo!!+👋;Saya+Jakson+Romario+Simson+Ibo;Welcome+to+my+GitHub)
 
 ## 📌 Introduction
 Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatika
