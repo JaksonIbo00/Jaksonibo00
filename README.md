@@ -9,13 +9,13 @@ Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatik
 - Database: MySQL
 - Tools: Git, VSCode, Canva
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaksonibo00&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jaksonibo00&theme=tokyonight)
 
 ## 🌐 Social Media
-Ig:
-TikTok:
+Ig: https://instagram.com/romario_ibo27
+TikTok: https://www.tiktok.com/@siapaeeeeeeeeeee
 
 ## ✨ Fun Facts 
 - Suka nonton Anime
