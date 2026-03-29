@@ -1,4 +1,38 @@
-## Hi there 👋
+# Halooo, saya Jakson Romario Simson Ibo👋
+
+## 📌 Introduction
+Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatika
+
+## 💻 Skills & Tech Stack
+- Programming Languages: Java, Python
+- Web Development: HTML, CSS, React
+- Database: MySQL
+- Tools: Git, VSCode, Canva
+
+## 📊 GitHub Stats (Optional)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaksonibo00&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jaksonibo00&theme=tokyonight)
+
+## 🌐 Social Media
+Ig:
+TikTok:
+
+## ✨ Fun Facts 
+- Suka nonton Anime
+- Suka warna biru laut/langit
+- Suka mengamati bintang
+
+## 🎯 Quote
+“If you don’t take risks, you can’t create a future.”
+— Monkey D. Luffy
+
+## 🖼️ Banner / GIF
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3c3OGI0dDV0cGx3bm9scHAxcTRqNHljeDJvNzZjNDJpdDQ0enpsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif)
+
+
+
+
+
 
 <!--
 **JaksonIbo00/Jaksonibo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
