@@ -31,7 +31,7 @@ Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatik
 ![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3c3OGI0dDV0cGx3bm9scHAxcTRqNHljeDJvNzZjNDJpdDQ0enpsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif)
 
 
-𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞
+𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞
 
 
 
