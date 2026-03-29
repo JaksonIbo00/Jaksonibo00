@@ -1,5 +1,5 @@
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=35&duration=7500&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡HELLOOO+I'M+JAKSON+IBO⚡;🚀+WELCOME+TO+MY+GITHUB)
+![Typing](https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡HELLOOO+I'M+JAKSON+IBO⚡;🚀+WELCOME+TO+MY+GITHUB)
 ## 📌 Introduction
 Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatika
 ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
@@ -29,7 +29,9 @@ Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatik
 — Monkey D. Luffy
 
 ![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3c3OGI0dDV0cGx3bm9scHAxcTRqNHljeDJvNzZjNDJpdDQ0enpsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif)
-𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟
+
+
+𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞
 
 
 
