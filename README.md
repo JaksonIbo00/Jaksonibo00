@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+a+Tech+Enthusiast;Welcome+to+my+GitHub)
 # Halooo, saya Jakson Romario Simson Ibo👋
 
 ## 📌 Introduction
