@@ -1,5 +1,5 @@
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+HELLOOO+I'M+JAKSON+ROMARIO+SIMSON+IBO⚡;🚀+WELCOME+TO+MY+GITHUB)
+![Typing](https://readme-typing-svg.herokuapp.com?size=35&duration=7500&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡HELLOOO+I'M+JAKSON+IBO⚡;🚀+WELCOME+TO+MY+GITHUB)
 ## 📌 Introduction
 Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatika
 ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
