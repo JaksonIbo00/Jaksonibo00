@@ -11,6 +11,7 @@ Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatik
 
 ## 📊 GitHub Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaksonibo00&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jaksonibo00&theme=tokyonight)
 
 ## 🌐 Social Media
@@ -18,9 +19,9 @@ Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatik
 - TikTok: https://www.tiktok.com/@siapaeeeeeeeeeee
 
 ## ✨ Fun Facts 
-- Suka nonton Anime
-- Suka warna biru laut/langit
-- Suka mengamati bintang
+- Suka nonton Anime🕺
+- Suka warna biru laut/langit🌊
+- Suka mengamati bintang🌌
 
 ## 🎯 Quote
 “If you don’t take risks, you can’t create a future.”
