@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Halooooo!!+👋;Saya+Jakson+Romario+Simson+Ibo;Welcome+to+my+GitHub)
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+HELLO+I'M+JAKSON+⚡;💻+TECH+ENTHUSIAST;🚀+WELCOME+TO+MY+GITHUB)
+![Typing](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+HELLOOO+I'M+JAKSON+ROMARIO+SIMSON+IBO⚡;🚀+WELCOME+TO+MY+GITHUB)
 ## 📌 Introduction
 Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatika
+⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 
 ## 💻 Skills & Tech Stack
 - Programming Languages: Java, Python
