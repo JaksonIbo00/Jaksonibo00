@@ -8,7 +8,7 @@ Saya adalah mahasiswa semester 6 di Universitas Papua, jurusan Teknik Informatik
 - Programming Languages: Java, Python
 - Web Development: HTML, CSS, React
 - Database: MySQL
-- Tools: Git, VSCode, Canva
+- Tools: Git, VSCode, Canva, Figma
 
 ## 📊 GitHub Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaksonibo00&show_icons=true&theme=tokyonight)
